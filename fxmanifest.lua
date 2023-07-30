@@ -1,8 +1,8 @@
 game 'common'
 
 fx_version 'cerulean'
-author 'AvarianKnight'
-description 'VOIP built using FiveM\'s built in mumble.'
+author 'a77b'
+description 'A7 Store - https://discord.gg/vvShNG4WYf'
 
 dependencies {
    '/onesync',
